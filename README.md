@@ -6,3 +6,4 @@ Predicting Heart Disease using Machine Learning (Classification Problem)
 * numpy
 * matplotlib
 * scikit-learn
+* jupyter notebook
